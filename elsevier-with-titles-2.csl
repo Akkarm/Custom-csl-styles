@@ -2,22 +2,19 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded" default-locale="en-US">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
 <info>
-    <title>ARIM style</title>
-    <title-short>ARIM</title-short>
-    <id>http://www.zotero.org/styles/arim-style</id>
-    <link href="http://www.zotero.org/styles/arim-style" rel="self"/>
-    <link href="http://www.zotero.org/styles/american-chemical-society" rel="template"/>
-    <link href="http://www.mdpi.com/authors/references" rel="documentation"/>
-      <author>
-      <name>Adina Munteanu</name>
-      <email>munteanu.adina@gmail.com</email>
-      </author>
-    <category citation-format="numeric"/>
-    <category field="generic-base"/>
-    <summary>ARIM customed based on Elsevier </summary>
-    <updated>2019-10-15T22:06:38+00:00</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-  </info>
+  <title>Elsevier (numeric, with titles) ARIM</title>
+  <id>https://www.zotero.org/styles/arim-style</id>
+  <link href="https://raw.githubusercontent.com/Akkarm/Custom-csl-styles/main/elsevier-with-titles-2.csl" rel="self"/>
+  <author>
+    <name>Adina Munteanu</name>
+    <email>munteanu.adina@gmail.com</email>
+  </author>
+  <category citation-format="numeric"/>
+  <category field="generic-base"/>
+  <summary>ARIM customed based on Elsevier</summary>
+  <updated>2019-10-15T22:06:38+00:00</updated>
+  <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+</info>
   <macro name="author">
     <names variable="author">
       <name initialize-with="." name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
