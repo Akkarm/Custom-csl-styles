@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>Elsevier (numeric, with titles) ARIM</title>
-<id>https://www.zotero.org/styles/arim-custom-style</id>       
-<link href="hhttps://raw.githubusercontent.com/Akkarm/Custom-csl-styles/refs/heads/main/elsevier-with-titles-2.csl" rel="self"/>
-  
-    <author>
+    <title>ARIM style</title>
+    <title-short>ARIM</title-short>
+    <id>http://www.zotero.org/styles/arim-style</id>
+    <link href="http://www.zotero.org/styles/arim-style" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-chemical-society" rel="template"/>
+    <link href="http://www.mdpi.com/authors/references" rel="documentation"/>
+      <author>
       <name>Adina Munteanu</name>
       <email>munteanu.adina@gmail.com</email>
-   
-    </author>
+      </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>ARIM customed based on Elsevier </summary>
